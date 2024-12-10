@@ -10,7 +10,9 @@ int main()
 
 	str_1 = "Hello, Ivan";
 
-	cout << "\n¬ведите \n";
+	cout << "\n¬ведите строку\n";
+
+	
 
 	return 0;
 }
